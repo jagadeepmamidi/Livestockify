@@ -1,0 +1,953 @@
+{
+  "counts": [
+    {
+      "timestamp": "0:00:00",
+      "frame": 0,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 3,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 6,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 9,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 12,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 15,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 18,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 21,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:00",
+      "frame": 24,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 27,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 30,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 33,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 36,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 39,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 42,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 45,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:01",
+      "frame": 48,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 51,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 54,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 57,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 60,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 63,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 66,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 69,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:02",
+      "frame": 72,
+      "count": 4
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 75,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 78,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 81,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 84,
+      "count": 4
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 87,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 90,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 93,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 96,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:03",
+      "frame": 99,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 102,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 105,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 108,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 111,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 114,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 117,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 120,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:04",
+      "frame": 123,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 126,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 129,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 132,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 135,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 138,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 141,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 144,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:05",
+      "frame": 147,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 150,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 153,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 156,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 159,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 162,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 165,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 168,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 171,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:06",
+      "frame": 174,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 177,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 180,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 183,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 186,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 189,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 192,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 195,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:07",
+      "frame": 198,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 201,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 204,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 207,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 210,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 213,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 216,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 219,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:08",
+      "frame": 222,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 225,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 228,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 231,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 234,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 237,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 240,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 243,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 246,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:09",
+      "frame": 249,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 252,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 255,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 258,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 261,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 264,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 267,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 270,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:10",
+      "frame": 273,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 276,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 279,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 282,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 285,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 288,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 291,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 294,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:11",
+      "frame": 297,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 300,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 303,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 306,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 309,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 312,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 315,
+      "count": 3
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 318,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 321,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:12",
+      "frame": 324,
+      "count": 2
+    },
+    {
+      "timestamp": "0:00:13",
+      "frame": 327,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:13",
+      "frame": 330,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:13",
+      "frame": 333,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:13",
+      "frame": 336,
+      "count": 1
+    },
+    {
+      "timestamp": "0:00:13",
+      "frame": 339,
+      "count": 0
+    },
+    {
+      "timestamp": "0:00:13",
+      "frame": 342,
+      "count": 0
+    }
+  ],
+  "tracks_sample": [
+    {
+      "id": 0,
+      "num_detections": 28,
+      "first_frame": 0,
+      "last_frame": 177,
+      "sample_boxes": [
+        [
+          553.3892836404243,
+          208.82469440434147,
+          701.4791245627007,
+          484.49149822261165
+        ],
+        [
+          551.7614878791039,
+          205.77369830232703,
+          708.840173312281,
+          487.6152104496755
+        ],
+        [
+          563.4336938614938,
+          204.95560376086542,
+          717.8436450901745,
+          474.32253673474713
+        ],
+        [
+          575.4554081488958,
+          212.01838018289737,
+          723.344198808862,
+          467.07232459278606
+        ],
+        [
+          577.2737182975224,
+          218.59897415810292,
+          726.1541547984126,
+          472.18940176654644
+        ]
+      ]
+    },
+    {
+      "id": 1,
+      "num_detections": 28,
+      "first_frame": 0,
+      "last_frame": 111,
+      "sample_boxes": [
+        [
+          413.41607678568914,
+          193.40927141496155,
+          585.4094237025921,
+          432.8040464561322
+        ],
+        [
+          415.68387753680594,
+          192.86103575112435,
+          590.9263677933097,
+          435.0524449321022
+        ],
+        [
+          417.15754612589666,
+          193.2041601632479,
+          596.0924372974781,
+          438.131860543441
+        ],
+        [
+          418.12767905710956,
+          193.34340990008738,
+          592.8916144689933,
+          435.2560956861439
+        ],
+        [
+          418.3165497373474,
+          193.41810416901018,
+          590.4114972248411,
+          433.75011772396164
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "num_detections": 76,
+      "first_frame": 6,
+      "last_frame": 324,
+      "sample_boxes": [
+        [
+          158.4567250899736,
+          149.4193258087832,
+          439.46749976354204,
+          427.3460855681699
+        ],
+        [
+          155.33229730956248,
+          145.82109160240168,
+          444.1135086379023,
+          430.8276772697802
+        ],
+        [
+          152.6805172750783,
+          141.59503833579942,
+          444.0776820627923,
+          429.7797967162399
+        ],
+        [
+          148.20416901600802,
+          135.40553317437235,
+          444.38986658264776,
+          429.168832832743
+        ],
+        [
+          82.20469849026719,
+          97.34748200755902,
+          442.23067822335213,
+          441.40436331870546
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "num_detections": 2,
+      "first_frame": 72,
+      "last_frame": 123,
+      "sample_boxes": [
+        [
+          489.94027678947737,
+          195.06206365628574,
+          594.3675869140507,
+          313.76002886328513
+        ],
+        [
+          544.3720308242002,
+          200.04698305682976,
+          648.2974206136303,
+          327.7580191071046
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "num_detections": 8,
+      "first_frame": 84,
+      "last_frame": 147,
+      "sample_boxes": [
+        [
+          521.9610074347797,
+          204.10247572443814,
+          636.970577993008,
+          421.45051245897594
+        ],
+        [
+          512.3400527239451,
+          197.2952577988407,
+          662.0196296470087,
+          433.6178159434297
+        ],
+        [
+          511.9487423848335,
+          196.53929183420036,
+          665.1478003938424,
+          434.6103199681367
+        ],
+        [
+          512.8487245666349,
+          195.34825908252043,
+          669.2922088851135,
+          435.40318694402384
+        ],
+        [
+          516.4253022654748,
+          194.39959709758,
+          672.7144040642597,
+          433.1817025365326
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "num_detections": 51,
+      "first_frame": 99,
+      "last_frame": 267,
+      "sample_boxes": [
+        [
+          636.6159731950522,
+          204.9689444769022,
+          851.6690901944194,
+          450.1821452707699
+        ],
+        [
+          634.7863986463457,
+          205.12892226632567,
+          851.3823398541475,
+          450.9718644187123
+        ],
+        [
+          630.8079180167878,
+          204.39801375113746,
+          850.7599436108575,
+          451.4952666728781
+        ],
+        [
+          625.6350080286246,
+          205.60284090567575,
+          836.0637486427432,
+          448.5396187539127
+        ],
+        [
+          625.5435943424308,
+          207.52171979204775,
+          828.4647272390015,
+          447.7223938100625
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "num_detections": 11,
+      "first_frame": 297,
+      "last_frame": 327,
+      "sample_boxes": [
+        [
+          302.00144820572694,
+          204.40902396228182,
+          498.1676819641726,
+          448.62542427355527
+        ],
+        [
+          302.4861499306256,
+          205.32581877002764,
+          489.1286525909356,
+          446.7908144256617
+        ],
+        [
+          302.9379907194959,
+          203.98768356162816,
+          483.3530615851076,
+          444.2385275060062
+        ],
+        [
+          303.9705559098792,
+          203.07561430279736,
+          480.36646948943144,
+          442.9737920189052
+        ],
+        [
+          307.84650585252916,
+          208.2971950274652,
+          479.2414405237221,
+          445.99196220625885
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "num_detections": 1,
+      "first_frame": 315,
+      "last_frame": 315,
+      "sample_boxes": [
+        [
+          536.686384093198,
+          204.0341357030121,
+          723.5791255517116,
+          423.7994336782871
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "num_detections": 1,
+      "first_frame": 336,
+      "last_frame": 336,
+      "sample_boxes": [
+        [
+          566.6410812523511,
+          282.40048196348255,
+          718.7898126470973,
+          410.29390019929303
+        ]
+      ]
+    }
+  ],
+  "weight_estimates": {
+    "unit": "index",
+    "per_bird": [
+      {
+        "id": 0,
+        "weight_index": 100.0,
+        "confidence": 0.75,
+        "num_observations": 28
+      },
+      {
+        "id": 1,
+        "weight_index": 100.0,
+        "confidence": 0.75,
+        "num_observations": 28
+      },
+      {
+        "id": 2,
+        "weight_index": 100.0,
+        "confidence": 0.75,
+        "num_observations": 76
+      },
+      {
+        "id": 3,
+        "weight_index": 64.16932106440974,
+        "confidence": 0.75,
+        "num_observations": 2
+      },
+      {
+        "id": 4,
+        "weight_index": 100.0,
+        "confidence": 0.75,
+        "num_observations": 8
+      },
+      {
+        "id": 5,
+        "weight_index": 100.0,
+        "confidence": 0.75,
+        "num_observations": 51
+      },
+      {
+        "id": 6,
+        "weight_index": 100.0,
+        "confidence": 0.75,
+        "num_observations": 11
+      },
+      {
+        "id": 7,
+        "weight_index": 100.0,
+        "confidence": 0.75,
+        "num_observations": 1
+      },
+      {
+        "id": 8,
+        "weight_index": 97.2941066915813,
+        "confidence": 0.75,
+        "num_observations": 1
+      }
+    ],
+    "aggregate": {
+      "mean": 99.63899392631262,
+      "std": 3.523683021301415,
+      "min": 61.976546119135676,
+      "max": 100.0
+    },
+    "calibration_info": {
+      "required_data": [
+        "Reference object with known dimensions in the video frame",
+        "Sample of birds with known weights (at least 50-100 samples)",
+        "Camera intrinsic parameters (focal length, sensor size)",
+        "Camera height and angle relative to ground"
+      ],
+      "calibration_process": [
+        "1. Use reference object to establish pixel-to-cm mapping",
+        "2. Collect bounding box features for birds with known weights",
+        "3. Train regression model (e.g., Random Forest, XGBoost) on features",
+        "4. Validate model on held-out test set",
+        "5. Deploy calibrated model for gram predictions"
+      ],
+      "additional_features": [
+        "Bird depth from camera (requires stereo or depth sensor)",
+        "Bird pose/orientation (standing, sitting, moving)",
+        "Feather density estimation",
+        "Age/breed classification"
+      ]
+    }
+  },
+  "artifacts": {
+    "annotated_video": "outputs/real_chicken_annotated.mp4",
+    "counts_csv": "C:\\Users\\jagad\\OneDrive\\Desktop\\KuppisMart\\outputs\\counts_timeseries.csv"
+  },
+  "summary_statistics": {
+    "total_frames_processed": 115,
+    "unique_birds_tracked": 9,
+    "max_simultaneous_birds": 4,
+    "avg_birds_per_frame": 1.791304347826087
+  }
+}
