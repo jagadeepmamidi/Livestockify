@@ -1,10 +1,6 @@
 # Livestockify ML Internship - Bird Counting & Weight Estimation System
 
-A production-ready ML system for analyzing poultry farm CCTV footage to count birds and estimate weights using computer vision.
-
-**Candidate**: Mamidi Jagadeep  
-**Email**: jagadeep.mamidi@gmail.com  
-**Repository**: https://github.com/jagadeepmamidi/Livestockify
+An ML system for analyzing poultry farm CCTV footage to count birds and estimate weights using computer vision.
 
 ---
 
@@ -426,15 +422,9 @@ Livestockify/
 
 ---
 
-## License
-
-This project is submitted as part of the Livestockify ML Internship assignment.
-
 ---
 
 ## Contact
 
-**Candidate**: Mamidi Jagadeep  
+**Candidate**: Jagadeep  Mamidi
 **Email**: jagadeep.mamidi@gmail.com  
-**GitHub**: https://github.com/jagadeepmamidi/Livestockify  
-**Submission Date**: December 17, 2025
